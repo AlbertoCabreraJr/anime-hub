@@ -1,6 +1,6 @@
 # Anime Hub
 
-Anime Hub is a dynamic web application designed to showcase an extensive list of anime. Built with the power of Next.js, this app features an infinite scrolling functionality, ensuring a seamless and interactive user experience. As users scroll, new anime listings are fetched and displayed, offering an ever-growing catalog of anime titles.
+Anime Hub is a dynamic web application designed to showcase an extensive list of anime. Leveraging Next.js Server Actions, this app efficiently handles data fetching and server-side operations, enabling an infinite scrolling feature that enhances user experience. As users scroll, new anime listings are dynamically loaded and displayed, offering an immersive and continuously evolving anime catalog.
 
 ## Features
 
