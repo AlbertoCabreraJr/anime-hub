@@ -1,9 +1,9 @@
-# Build Modern Next 14 Server Side App with Server Actions, Infinite Scroll & Framer Motion Animations
+# Anime Hub
 
-![Anime Website](https://i.ibb.co/MG1nbqt/YT-Thumbnails-2.png)
+Anime Hub is a dynamic web application designed to showcase an extensive list of anime. Built with the power of Next.js, this app features an infinite scrolling functionality, ensuring a seamless and interactive user experience. As users scroll, new anime listings are fetched and displayed, offering an ever-growing catalog of anime titles.
 
-### [🌟 Become a top 1% Next.js 14 developer in only one course](https://jsmastery.pro/next14)
-### [🚀 Land your dream programming job in 6 months](https://jsmastery.pro/masterclass)
-### [📙 Free Three.js Cheatsheet](https://resource.jsmastery.pro/threejs-cheatsheet)
-### [🌐 Best Hosting for Your Websites](https://hostinger.com/javascript10)
+## Features
 
+- **Infinite Scrolling:** Continuously loads anime titles as the user scrolls, providing an uninterrupted browsing experience.
+- **Next.js Server Actions:** Utilizes the full potential of Next.js for server-side rendering and API management, ensuring fast and efficient data retrieval.
+- **Responsive Design:** Optimized for a wide range of devices, providing a consistent and accessible user experience across desktop, tablet, and mobile.
